@@ -1,5 +1,5 @@
 # meli-selfbot-
-meli nebula selfbot. posted a logger in their own members shit 😭😭
+meli nebula selfbot. Meli's posted a logger in their own members selfbot. Noice one
 
 #logger in line 117-119
 
